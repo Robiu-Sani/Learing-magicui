@@ -45,20 +45,20 @@ export function cn(...inputs: ClassValue[]) {
 ```bash
 npx create-next-app@latest
 ```
-What is your project named? my-app
-Would you like to use TypeScript? No / Yes
-Would you like to use ESLint? No / Yes
-Would you like to use Tailwind CSS? No / Yes
-Would you like to use `src/` directory? No / Yes
-Would you like to use App Router? (recommended) No / Yes
-Would you like to customize the default import alias (@/*)? No / Yes
-What import alias would you like configured? @/*
+What is your project named? my-app <br/>
+Would you like to use TypeScript? No / Yes <br/>
+Would you like to use ESLint? No / Yes <br/>
+Would you like to use Tailwind CSS? No / Yes <br/>
+Would you like to use `src/` directory? No / Yes <br/>
+Would you like to use App Router? (recommended) No / Yes <br/>
+Would you like to customize the default import alias (@/*)? No / Yes <br/>
+What import alias would you like configured? @/* <br/>
 ```base
 npx magicui-cli init
 ```
-Which style would you like to use? » Default
-Which color would you like to use as base color? » Slate
-Would you like to use CSS variables for colors? ... no / yes
+Which style would you like to use? » Default <br/>
+Which color would you like to use as base color? » Slate <br/>
+Would you like to use CSS variables for colors? ... no / yes  <br/>
 
 ## Some Effects Name
 
